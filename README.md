@@ -53,7 +53,7 @@ Sou movido por evolução constante — sempre buscando aprender mais, melhorar 
 
 ---
 
-### 🖥💻 Linguagens e Tecnologias
+### 💻 Linguagens e Tecnologias
 
 <p align="left">
     <img
