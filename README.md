@@ -1,3 +1,14 @@
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:ff7e5f,100:feb47b&animation=fadeIn"/>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7E5F&center=true&width=600&lines=Hello!+I'm+Icardi+%3C3;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+</div>
+
+
 # 👨‍💻 Breno Miranda
 
 **`Desenvolvedor FullStack`**
@@ -179,7 +190,10 @@ Sou movido por evolução constante — sempre buscando aprender mais, melhorar 
  </p>
 
 <br/>
-<br/>
+
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff7e5f,100:feb47b"/>
+</div>
 
 
 
