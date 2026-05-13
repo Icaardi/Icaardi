@@ -13,17 +13,21 @@
 </div>
 
 ---
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    ## 👨‍💻 Sobre mim
 
-## 👨‍💻 Sobre mim
+    **Desenvolvedor Full Stack**
 
-**Desenvolvedor Full Stack**
+    Me chamo Breno Miranda, mais conhecido como Icardi. Estou construindo minha carreira na área de desenvolvimento de software.
 
-Me chamo Breno Miranda, mais conhecido como Icardi. Estou construindo minha carreira na área de desenvolvimento de software.
+    Atualmente concilio trabalho e estudos, focando em evolução prática e experiência com projetos reais. Já tive contato com desenvolvimento front-end e sigo expandindo meus conhecimentos para me tornar um desenvolvedor      completo.
 
-Atualmente concilio trabalho e estudos, focando em evolução prática e experiência com projetos reais. Já tive contato com desenvolvimento front-end e sigo expandindo meus conhecimentos para me tornar um desenvolvedor completo.
+    Sou movido por evolução constante — sempre buscando aprender mais, melhorar meus projetos e pensar como um desenvolvedor profissional.
+  </div>
 
-Sou movido por evolução constante — sempre buscando aprender mais, melhorar meus projetos e pensar como um desenvolvedor profissional.
-
+  <img height="150" src="https://giffiles.alphacoders.com/315/315.gif" />
+</div>
 ---
 
 ## 🌐 Conecte-se comigo
