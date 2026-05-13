@@ -67,8 +67,7 @@ Sou movido por evolução constante — sempre buscando aprender mais, melhorar 
 
 ---
 
-<img align="right" height="150" src="https://media.tenor.com/lK0XzS4b2WAAAAAC/itachi-sharingan.gif"/>
-
+<img align="right" height="150" src="https://giffiles.alphacoders.com/315/315.gif"/>
 
 ### 💻 Linguagens e Tecnologias
 
