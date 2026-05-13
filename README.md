@@ -67,6 +67,8 @@ Sou movido por evolução constante — sempre buscando aprender mais, melhorar 
 
 ---
 
+<img align="right" height="150" src="https://giffiles.alphacoders.com/131/131713.gif"/>
+
 ### 💻 Linguagens e Tecnologias
 
 <p align="left">
